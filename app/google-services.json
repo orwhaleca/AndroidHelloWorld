@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "129277420034",
+    "firebase_url": "https://helloworld-74edd.firebaseio.com",
+    "project_id": "helloworld-74edd",
+    "storage_bucket": "helloworld-74edd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129277420034:android:e9cd7c2b2c2dd962",
+        "android_client_info": {
+          "package_name": "edu.frostburg.cosc631.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129277420034-2sj6066gtcaqnb1408jogmf7hff46j8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXRfeOzZYyFH6N0oAIAu9e5ejyhF5BPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
